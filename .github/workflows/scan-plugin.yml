@@ -1,5 +1,7 @@
 name: 'Jenkins Plugin Scan'
 on:
+    push:
+        branches: ["main"]
     workflow_dispatch:
 
 jobs:
@@ -19,7 +21,7 @@ jobs:
               id: plugins
               run: |
                 apt update && apt install jq -y;
-                out="[$(shuf -n 256 plugins-list.txt |sed 's/^/\"/;s/$/\"/g' |tr '\n' ','|sed 's/,$//g')]";
+                out="[$(shuf -n 10 plugins-list.txt |sed 's/^/\"/;s/$/\"/g' |tr '\n' ','|sed 's/,$//g')]";
                 echo "plugins=$(jq -cr '@json' <<< "$out")" >> $GITHUB_OUTPUT
               shell: bash
 
