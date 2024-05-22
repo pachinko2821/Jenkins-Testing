@@ -1,7 +1,7 @@
 42crunch-security-audit-plugin
 AnchorChain-plugin
 ApicaLoadtest-plugin
-BlameSubversion-plugin
+
 BlazeMeterJenkinsPlugin-plugin
 ColumnsPlugin-plugin
 CustomHistory-plugin
@@ -715,7 +715,7 @@ folder-properties-plugin
 font-awesome-api-plugin
 forensics-api-plugin
 form-element-path-plugin
-forticwp-cicd-plugin
+
 fortify-on-demand-uploader-plugin
 fortify-plugin
 frugal-testing-plugin
@@ -1822,7 +1822,7 @@ validating-email-parameter-plugin
 validating-string-parameter-plugin
 validating-yaml-parameter-plugin
 variables-replace-plugin-plugin
-variant-plugin
+
 vault-scm-plugin-plugin
 vboxwrapper-plugin
 vdoo-vision-plugin
