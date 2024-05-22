@@ -41,7 +41,7 @@ adoptopenjdk-plugin
 advanced-installer-msi-builder-plugin
 agent-loadbalance-plugin
 agent-maintenance-plugin
-agent-server-parameter-plugin
+
 aio-tests-plugin
 alauda-devops-credentials-provider-plugin
 alauda-devops-pipeline-plugin
@@ -90,7 +90,7 @@ application-director-plugin-plugin
 applitools-eyes-plugin
 appray-plugin
 apprenda-plugin
-appscan-plugin
+
 aqua-microscanner-plugin
 aqua-security-scanner-plugin
 aqua-serverless-plugin
@@ -644,7 +644,7 @@ elasticsearch-query-plugin
 electricflow-plugin
 email-ext-recipients-column-plugin
 email-ext-plugin
-emailext-template-plugin
+
 embeddable-build-status-plugin
 embotics-vcommander-plugin
 emma-plugin
@@ -1250,7 +1250,7 @@ nunit-plugin
 nutanix-calm-plugin
 nvm-wrapper-plugin
 oak9-plugin
-oauth-credentials-plugin
+
 octoperf-plugin
 octopusdeploy-plugin
 oes-template-plugin
@@ -1432,7 +1432,7 @@ prqa-plugin-plugin
 publish-over-cifs-plugin
 publish-over-dropbox-plugin
 publish-over-ftp-plugin
-publish-over-ssh-plugin
+
 publish-over-plugin
 publish-to-bitbucket-plugin
 pubsub-light-plugin
