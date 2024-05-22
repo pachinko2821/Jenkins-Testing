@@ -47,7 +47,7 @@ alauda-devops-credentials-provider-plugin
 alauda-devops-pipeline-plugin
 alauda-devops-sync-plugin
 alauda-kubernetes-support-plugin
-alauda-pipeline-plugin
+
 alibabacloud-credentials-plugin
 alibabacloud-ecs-plugin
 alibabacloud-edas-plugin
@@ -139,7 +139,7 @@ aws-cloudwatch-logs-publisher-plugin
 aws-codebuild-plugin
 aws-codecommit-jobs-plugin
 aws-codecommit-trigger-plugin
-aws-codepipeline-plugin
+
 aws-credentials-plugin
 aws-device-farm-plugin
 aws-global-configuration-plugin
@@ -330,7 +330,7 @@ cctray-xml-plugin
 cdevents-plugin
 cerberus-testing-plugin
 change-assembly-version-plugin-plugin
-changelog-history-plugin
+
 changes-since-last-success-plugin
 chaos-butler-plugin
 chaos-monkey-plugin
@@ -1466,9 +1466,9 @@ quayio-trigger-plugin
 queue-cleanup-plugin
 qy-wechat-notification-plugin
 r-plugin
-r7insight-log-forwarder-plugin
+
 rabbitmq-build-trigger-plugin
-rabbitmq-consumer-plugin
+
 rabbitmq-publisher-plugin
 rad-builder-plugin
 radargun-reporting-plugin
@@ -1582,7 +1582,7 @@ secure-requester-whitelist-plugin
 security-inspector-plugin
 seed-plugin
 select2-api-plugin
-selected-tests-executor-plugin
+
 selection-tasks-plugin-plugin
 selenium-aes-plugin
 selenium-axis-plugin
@@ -1691,7 +1691,7 @@ stepcounter-plugin
 stoplightio-report-plugin
 strawboss-plugin
 strict-crumb-issuer-plugin
-structs-plugin
+
 subversion-plugin
 suite-test-groups-publisher-plugin
 summary_report-plugin
@@ -1740,7 +1740,7 @@ testabilityexplorer-plugin
 testcafe-plugin
 testcomplete-xunit-plugin
 testcomplete11-xunit-plugin
-testdroid-run-in-cloud-plugin
+
 testein-plugin
 testflo-for-jira-test-management-automation-plugin
 testingbot-plugin
@@ -1838,7 +1838,7 @@ versioncolumn-plugin
 versionnumber-plugin
 vertx-plugin
 viber-notification-plugin
-view-cloner-plugin
+
 view-job-filters-plugin
 view26-plugin
 viewVC-plugin
@@ -1847,7 +1847,7 @@ violation-columns-plugin
 violation-comments-to-github-plugin
 violation-comments-to-gitlab-plugin
 violation-comments-to-stash-plugin
-violations-plugin
+
 virtualbox-plugin
 visual-basic-6-plugin
 visualexpert-plugin
