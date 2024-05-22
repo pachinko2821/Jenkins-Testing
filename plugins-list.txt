@@ -29,7 +29,7 @@ accelerated-build-now-plugin-plugin
 accelq-ci-connect-plugin
 accurev-plugin
 ace-editor-plugin
-active-directory-plugin
+
 acunetix-360-scan-plugin
 
 adaptive-disconnector-plugin
@@ -481,7 +481,7 @@ crittercism-dsym-plugin
 cron-shelve-plugin
 cron_column-plugin
 crossbrowsertesting-plugin
-crowd-plugin
+
 crowdstrike-security-plugin
 crx-content-package-deployer-plugin
 csp-plugin
@@ -576,7 +576,7 @@ discord-notifier-plugin
 disk-usage-plugin
 diskcheck-plugin
 display-console-output-plugin
-display-upstream-changes-plugin
+
 display-url-api-plugin
 distTest-plugin
 distfork-plugin
@@ -653,7 +653,7 @@ emotional-jenkins-plugin-plugin
 enhanced-credentials-plugin
 enhanced-metrics-plugin
 enhanced-old-build-discarder-plugin
-envfile-plugin
+
 envinject-api-plugin
 envinject-plugin
 environment-dashboard-plugin
@@ -817,7 +817,7 @@ google-container-registry-auth-plugin
 google-deployment-manager-plugin
 google-git-notes-publisher-plugin
 google-kubernetes-engine-plugin
-google-login-plugin
+
 google-metadata-plugin-plugin
 google-oauth-plugin-plugin
 google-play-android-publisher-plugin
@@ -987,7 +987,7 @@ job-restrictions-plugin
 
 jobConfigHistory-plugin
 jobcacher-artifactory-storage-plugin
-jobcacher-azure-storage-plugin
+
 jobcacher-plugin
 jobcopy-builder-plugin
 jobdelete-builder-plugin
@@ -1192,7 +1192,7 @@ mqtt-notification-plugin-plugin
 msbuild-plugin
 msginject-plugin
 mstest-plugin
-mstestrunner-plugin
+
 mttr-plugin
 multi-branch-priority-sorter-plugin
 multi-branch-project-plugin-plugin
@@ -1200,7 +1200,7 @@ multi-module-tests-publisher-plugin
 multi-slave-config-plugin-plugin
 multibranch-action-triggers-plugin
 multibranch-build-strategy-extension-plugin
-multibranch-job-tear-down-plugin
+
 multibranch-scan-webhook-trigger-plugin
 multiple-scms-plugin
 multiselect-parameter-plugin
@@ -1270,7 +1270,7 @@ openedge-plugin
 openid-plugin
 openid4java-plugin
 openscada-jenkins-exporter-plugin
-openshift-client-plugin
+
 openshift-deployer-plugin
 openshift-k8s-credentials-plugin
 openshift-login-plugin
@@ -1810,7 +1810,7 @@ urbancode-velocity-plugin
 url-auth-sso-plugin
 url-auth-plugin
 url-filter-plugin
-urltrigger-plugin
+
 usemango-runner-plugin
 user1st-utester-plugin
 utplsql-plugin
