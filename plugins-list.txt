@@ -376,7 +376,6 @@ cloudevents-plugin
 cloudfoundry-plugin
 cloudguard-shiftleft-plugin
 cloudhub-deployer-plugin
-cloudify-plugin
 cloudshare-docker-plugin
 cloudshell-sandbox-plugin
 cloudtest-plugin
@@ -402,7 +401,6 @@ codefresh-plugin
 codeql-plugin
 codescene-plugin
 codesonar-plugin
-codethreat-scanner-plugin
 coding-webhook-plugin
 collabnet-automic-deploy-plugin
 collabnet-uc4-deploy-plugin
@@ -1562,7 +1560,6 @@ scm-manager-plugin
 scm-sqs-plugin
 scm-sync-configuration-plugin
 scm2job-plugin
-scmskip-plugin
 scons-plugin
 scoring-load-balancer-plugin
 scoverage-plugin
