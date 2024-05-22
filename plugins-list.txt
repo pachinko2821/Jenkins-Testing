@@ -31,7 +31,7 @@ accurev-plugin
 ace-editor-plugin
 active-directory-plugin
 acunetix-360-scan-plugin
-acunetix-plugin
+
 adaptive-disconnector-plugin
 add-changes-to-build-changelog-plugin
 additional-identities-plugin-plugin
@@ -148,7 +148,7 @@ aws-java-sdk-autoscaling-plugin
 aws-java-sdk-cloudformation-plugin
 aws-java-sdk-cloudfront-plugin
 aws-java-sdk-codebuild-plugin
-aws-java-sdk-codedeploy-plugin
+aws-java-sdk-code
 aws-java-sdk-ec2-plugin
 aws-java-sdk-ecr-plugin
 aws-java-sdk-ecs-plugin
@@ -395,15 +395,15 @@ codebuild-cloud-plugin
 codebuilder-cloud-plugin
 codecommit-url-helper-plugin
 codecover-plugin
-codedeploy-plugin
+code
 codedx-plugin
 codefresh-plugin
 codeql-plugin
 codescene-plugin
 codesonar-plugin
 coding-webhook-plugin
-collabnet-automic-deploy-plugin
-collabnet-uc4-deploy-plugin
+collabnet-automic-
+collabnet-uc4-
 collabnet-plugin
 collapsing-console-sections-plugin
 command-launcher-plugin
@@ -545,7 +545,7 @@ dependencyanalyzer-plugin
 depgraph-view-plugin
 deploy-dashboard-plugin
 deploy-integrationserver-plugin
-deploy-plugin
+
 deploydb-plugin
 deployed-on-column-plugin
 deployer-framework-plugin
@@ -600,7 +600,7 @@ dos-trigger-plugin
 dotcommonitor-loadview-plugin
 dotcoverrunner-plugin
 dotnet-as-script-plugin
-dotnet-sdk-plugin
+
 downstream-build-cache-plugin
 downstream-buildview-plugin
 downstream-ext-plugin
@@ -702,7 +702,7 @@ filesystem_scm-plugin
 fitnesse-plugin
 flaky-test-handler-plugin
 flashlog-plugin-plugin
-flexdeploy-plugin
+flex
 flexible-publish-plugin
 flock-plugin
 flow-plugin
@@ -944,7 +944,7 @@ jbpm-embedded-plugin-plugin
 jbpm-workflow-plugin-plugin
 jcaptcha-plugin-plugin
 jclouds-jenkins-plugin
-jdcloud-codedeploy-plugin
+jdcloud-code
 jdepend-plugin
 jdk-tool-plugin
 jenkins-cloudformation-plugin-plugin
@@ -984,7 +984,7 @@ job-node-stalker-plugin
 job-parameter-summary-plugin
 job-poll-action-plugin-plugin
 job-restrictions-plugin
-job-strongauth-simple-plugin
+
 jobConfigHistory-plugin
 jobcacher-artifactory-storage-plugin
 jobcacher-azure-storage-plugin
@@ -1048,7 +1048,7 @@ kubernetes-pipeline-devops-steps-plugin
 kubernetes-plugin
 kubesphere-token-auth-plugin
 label-linked-jobs-plugin
-label-verifier-plugin
+
 labeled-test-groups-publisher-plugin
 labelled-steps-plugin
 labmanager-plugin
@@ -1113,7 +1113,7 @@ mail-watcher-plugin-plugin
 mailcommander-plugin
 mailer-plugin
 mailmap-resolver-plugin
-maintenance-jobs-scheduler-plugin
+
 manage-permission-plugin
 managed-scripts-plugin
 mantis-plugin
@@ -1252,7 +1252,7 @@ nvm-wrapper-plugin
 oak9-plugin
 
 octoperf-plugin
-octopusdeploy-plugin
+octopus
 oes-template-plugin
 offlineonfailure-plugin-plugin
 oic-auth-plugin
@@ -1277,7 +1277,7 @@ openshift-login-plugin
 openshift-pipeline-plugin
 openshift-sync-plugin
 openstack-cloud-plugin
-opentelemetry-agent-metrics-plugin
+
 opentelemetry-plugin
 opsgenie-plugin
 opslevel-plugin
@@ -1286,7 +1286,7 @@ oracle-cloud-infrastructure-compute-plugin
 oracle-cloud-infrastructure-devops-plugin
 osf-builder-suite-for-sfcc-credentials-plugin
 osf-builder-suite-for-sfcc-data-import-plugin
-osf-builder-suite-for-sfcc-deploy-plugin
+osf-builder-suite-for-sfcc-
 osf-builder-suite-for-sfcc-run-job-plugin
 osf-builder-suite-standalone-sonar-linter-plugin
 oslc-cm-plugin
@@ -1664,7 +1664,7 @@ spring-config-plugin
 spring-initalzr-plugin
 sqlplus-script-runner-plugin
 sqlserver-api-plugin
-sra-deploy-plugin
+sra-
 srcclr-installer-plugin
 sse-gateway-plugin
 ssh-agent-plugin
@@ -1846,7 +1846,7 @@ violation-comments-to-gitlab-plugin
 violation-comments-to-stash-plugin
 
 virtualbox-plugin
-visual-basic-6-plugin
+
 visualexpert-plugin
 visualworks-store-plugin
 vk-notifier-plugin
@@ -1947,5 +1947,5 @@ zmq-event-publisher-plugin
 zohosprints-plugin
 zoom-plugin
 zos-connector-plugin
-zscaler-iac-scan-plugin
+
 zulip-plugin
