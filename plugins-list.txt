@@ -478,7 +478,7 @@ createjobadvanced-plugin
 credentials-binding-plugin
 credentials-plugin
 crittercism-dsym-plugin
-cron-shelve-plugin
+
 cron_column-plugin
 crossbrowsertesting-plugin
 
@@ -591,7 +591,7 @@ docker-plugin-plugin
 docker-slaves-plugin
 docker-swarm-plugin
 docker-traceability-plugin
-docker-workflow-plugin
+
 dockerhub-notification-plugin
 doclinks-plugin
 dogu-integration-plugin
@@ -736,7 +736,7 @@ gcp-secrets-manager-credentials-provider-plugin
 gcr-scanner-plugin
 gearman-plugin-plugin
 gem-publisher-plugin
-generic-environment-filters-plugin
+
 generic-event-plugin
 generic-tool-plugin
 generic-webhook-trigger-plugin
@@ -744,8 +744,8 @@ genexus-plugin
 gerrit-checks-api-plugin
 gerrit-code-review-plugin
 gerrit-trigger-plugin
-gerrit-verify-status-reporter-plugin
-ghost-inspector-plugin
+
+
 ghprb-plugin
 git-automerger-plugin
 git-bisect-plugin
@@ -1265,14 +1265,14 @@ onesky-plugin
 ontrack-plugin
 open-stf-plugin
 openJDK-native-plugin-plugin
-opencover-plugin
+
 openedge-plugin
 openid-plugin
 openid4java-plugin
 openscada-jenkins-exporter-plugin
 
 openshift-deployer-plugin
-openshift-k8s-credentials-plugin
+
 openshift-login-plugin
 openshift-pipeline-plugin
 openshift-sync-plugin
@@ -1287,7 +1287,7 @@ oracle-cloud-infrastructure-devops-plugin
 osf-builder-suite-for-sfcc-credentials-plugin
 osf-builder-suite-for-sfcc-data-import-plugin
 osf-builder-suite-for-sfcc-
-osf-builder-suite-for-sfcc-run-job-plugin
+
 osf-builder-suite-standalone-sonar-linter-plugin
 oslc-cm-plugin
 ostorlab-plugin
@@ -1295,7 +1295,7 @@ outbound-webhook-plugin
 overops-query-plugin
 oversecured-plugin
 ownership-plugin
-p4-plugin
+
 paaslane-estimate-plugin
 package-drone-plugin
 package-parameter-plugin
