@@ -19,7 +19,7 @@ SSSCM-plugin
 StashBranchParameter-plugin
 Surround-SCM-plugin-plugin
 TestComplete-plugin
-TestFairy-plugin
+
 TwilioNotifier-plugin
 URLSCM-plugin
 abap-ci-plugin
@@ -1263,7 +1263,7 @@ one-shot-executor-plugin
 onepassword-secrets-plugin
 onesky-plugin
 ontrack-plugin
-open-stf-plugin
+
 openJDK-native-plugin-plugin
 
 openedge-plugin
@@ -1355,7 +1355,7 @@ pipeline-github-plugin
 pipeline-githubnotify-step-plugin
 pipeline-gitstatuswrapper-plugin
 pipeline-global-lib-nexus-plugin
-pipeline-graph-analysis-plugin
+
 pipeline-graph-view-plugin
 pipeline-groovy-lib-plugin
 pipeline-huaweicloud-plugin-plugin
@@ -1495,7 +1495,7 @@ redmine-metrics-report-plugin
 redmine-plugin
 refit-plugin
 regression-report-plugin-plugin
-release-helper-plugin
+
 release-plugin
 reliza-integration-plugin
 relution-publisher-plugin
@@ -1882,7 +1882,7 @@ wildfly-deployer-plugin
 windocks-start-container-plugin
 windows-azure-storage-plugin
 windows-cloud-plugin
-windows-exe-runner-plugin
+
 windows-slaves-plugin
 winrm-client-plugin
 wix-plugin
