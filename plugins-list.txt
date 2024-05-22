@@ -59,7 +59,7 @@ amazon-ecr-plugin
 amazon-ecs-plugin
 amazon-inspector-image-scanner-plugin
 amqp-build-trigger-plugin
-analysis-model-api-plugin
+
 anchore-container-scanner-plugin
 android-apk-size-watcher-plugin
 android-emulator-plugin
@@ -1348,7 +1348,7 @@ pipeline-config-history-plugin
 pipeline-cps-http-plugin
 pipeline-dependency-walker-plugin
 pipeline-deploymon-plugin
-pipeline-gcp-plugin
+
 pipeline-giphy-api-plugin
 pipeline-github-lib-plugin
 pipeline-github-plugin
@@ -1721,7 +1721,7 @@ teamconcert-plugin
 teams-webhook-trigger-plugin
 teamscale-upload-plugin
 tekton-client-plugin
-telegram-notifications-plugin
+
 telerik-appbuilder-plugin-plugin
 template-project-plugin
 template-workflows-plugin
